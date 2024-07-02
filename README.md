@@ -1,5 +1,5 @@
 # buscador_man
-# #FIltred man search
+# #Filtred man search
 
 Un hace lo mismo que man pero filtra por la palabra que buscas
 
